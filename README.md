@@ -8,7 +8,7 @@ code on my github account_
 Projects:
 
 1. **Back in the 00's - Do you remember the singles chart?**  
-_key words:_ 
+_key words:_
 
 1. **Insight on Liquor beverage consumption in IOWA State**  
 _key words:_
@@ -16,7 +16,7 @@ _key words:_
 1. **Predicting Data Scientist's Salaries in the US**  
 _key words:_
 
-1. **How lucky were you to survive of the Titanic tragedy?**  
+1. **How lucky were you to survive of the Titanic tragedy?**   
 _key words:_
 
 1. **Movies' rating prediction**
