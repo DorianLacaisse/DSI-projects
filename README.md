@@ -25,7 +25,7 @@ PostgreSQL | Pipeline | Feature selections | Supervised Machine Learning - Class
 
 1. **Movies' rating prediction**  
 _key words:  
-Web Scraping | Get data from API | Data Cleansing | Feature extractions | Ensemble Boosting Methods | Random Forest | Bagging | Adaboost | Extra Trees | Model Selection_
+Web Scraping | Get data from API | Data Mining | Feature extractions | Ensemble Boosting Methods | Random Forest | Bagging | Adaboost | Extra Trees | Model Selection_
 
 1. **Airport flights delays**  
 _key words:  
