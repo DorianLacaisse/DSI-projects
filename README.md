@@ -17,9 +17,9 @@ Supervised Machine Learning - Linear model| Linear Regression | Ridge and Lasso 
 
 1. **Predicting Data Scientist's Salaries in the US**  
 _key words:  
-Web Scraping | Data Cleansing | Supervised Machine Learning - Classification model| Logistic Regression | Hyperparameter optimization_
+Web Scraping | Data Cleaning | Supervised Machine Learning - Classification model| Logistic Regression | Hyperparameter optimization_
 
-1. **How lucky were you to survive of the Titanic tragedy?**   
+1. **How lucky were you to survive the Titanic tragedy?**   
 _key words:  
 PostgreSQL | Pipeline | Feature selections | Supervised Machine Learning - Classification model| Logistic Regression | KNeighbours | Model Selection_
 
@@ -30,3 +30,6 @@ Web Scraping | Get data from API | Data Mining | Feature extractions | Ensemble 
 1. **Airport flights delays**  
 _key words:  
 PostgreSQL | Principal Component Analysis | Supervised Machine Learning | Clustering methods | K-means | Hierarchical Clustering | Density-Based Spatial Clustering_
+
+1. **Capstone - personal project - Building a tool to assess the likelihood of success for opening a restaurant**  
+_This longer project involve several techniques. The README file inside the folder explains the entire approach. The folder is constantly updated as the project is still ongoing._
