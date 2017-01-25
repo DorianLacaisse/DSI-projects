@@ -45,14 +45,16 @@ Introductory slides
 **Part 3**
 - Getting restaurant data from website zomato.com.  
 - Exploratory Analysis, cleaning and compilation of the Zomato data.
-- Create of a categorisation model based on estimated profit.
+- Creation of a categorisation model based on estimated profit.
 - First try on fitting classification model over Zomato data.
+
+**Part 4**
+- Optimising actual features.  
+- Carrying out dimensionality reduction
+- Fitting new models with parameters optimisation.
+- Validation of the best classification model
 
 **Ongoing**
 
-- Carrying out dimensionality reduction
-- Optimising actual features.
-- Fitting new models with parameters optimisation.
 - Getting TripAdvisor restaurants information to validate categorisation model.
-- Validation of the best classification model
-- Business process to eventual deploy the model in a production environment
+- Business process to eventually deploy a model in a production environment
